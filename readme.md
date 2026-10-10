@@ -1,7 +1,7 @@
 # EFT S9 – Desarrollo Backend Avanzado: Spring Cloud y Batch
 **Desarrollo Backend III (PBY2203) – Duoc UC** · **Estudiante:** Bayro Rañileo · **Docente:** Alonso Esteban Castillo Pizarro
 
-**Repositorio GitHub:** https://github.com/BayroBastian2025/EFT_S9_Bayro_Ranileo  <!-- ⚠ reemplaza por el link real de tu repositorio -->
+**Repositorio GitHub:** https://github.com/BayroBastian2025/EFT_S9_Bayro_Ranileo
 
 Modernización de la plataforma del **Banco XYZ** (sistema legacy COBOL/Shell) hacia microservicios en la nube.
 Este proyecto **parte del trabajo de la Semana 8** (OAuth2, Docker, Resilience4j, Kafka, BFF) y le agrega lo que pedía la Evaluación Final:

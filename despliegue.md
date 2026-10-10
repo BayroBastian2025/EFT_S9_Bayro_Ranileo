@@ -35,7 +35,7 @@ exit    # volver a entrar por SSH para aplicar el grupo docker
 
 ## 3. Desplegar
 ```bash
-git clone https://github.com/<TU_USUARIO>/EFT_S9_Bayro_Ranileo.git
+git clone https://github.com/BayroBastian2025/EFT_S9_Bayro_Ranileo.git
 cd EFT_S9_Bayro_Ranileo
 cp .env.example .env
 nano .env        # cambia los secretos y pon KAFKA_EXTERNAL_HOST=<IP_PUBLICA>

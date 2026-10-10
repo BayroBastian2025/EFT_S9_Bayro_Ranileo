@@ -305,7 +305,13 @@
           ],
           "request": {
             "method": "POST",
-            "header": [],
+            "header": [
+              {
+                "key": "Accept",
+                "value": "application/json",
+                "type": "text"
+              }
+            ],
             "url": {
               "raw": "{{auth_url}}/oauth2/token",
               "host": [
@@ -1453,14 +1459,7 @@
               ]
             },
             "auth": {
-              "type": "bearer",
-              "bearer": [
-                {
-                  "key": "token",
-                  "value": "{{token_full}}",
-                  "type": "string"
-                }
-              ]
+              "type": "noauth"
             },
             "description": ""
           }
